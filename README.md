@@ -100,7 +100,7 @@ Finally, we give the code embeddings generated according to the above method to 
 ## Acknowledgment
 Thank the following works for providing the original repository to facilitate the collection of the data sets required for this paper. At the same time, we gave the address of the raw datasets depository.
 
-Datasets Devign and BigCloneBench for code vulnerability detection and code clone detection
+Datasets Devig for code vulnerability detection
 Devign: https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/Defect-detection
 and the raw dataset comes from the paper <b>Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks.</b>
 

@@ -10,7 +10,7 @@ We first give the statistical test results of the RQ2 results in the paper (corr
 
 
 ## Datasets
-We then give the datasets under the datasets folder shown above, these datasets were processed well by previous researchers.
+We first give the datasets under the datasets folder shown above, these datasets were processed well by previous researchers.
 
 ## Code Pre-trained Models
 The code pre-trained models used in this paper are all come from HuggingFace, we give the links to download them:

@@ -105,7 +105,7 @@ Devign: https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/Defect-detect
 and the raw dataset comes from the paper <b>Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks.</b>
 
 Datasets Reveal for code vulnerability detection
-Reveal: https://github.com/VulDetProject/ReVeal.
+Reveal: https://github.com/VulDetProject/ReVeal, which comes from the paper <b>Deep Learning Based Vulnerability Detection: Are We There Yet?.</b>
 
 Datasets CWE119 and CWE399: https://github.com/CGCL-codes/VulDeePecker
 and these two datasets come from the paper <b>Vuldeepecker: A deep learning-based system for vulnerability detection.</b>

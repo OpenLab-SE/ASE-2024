@@ -7,7 +7,7 @@ We first give the datasets under the Sample+split/MYVDCWEDATA folder shown above
 The code pre-trained models used in this paper are all come from HuggingFace, we do not give the models since it is too large and easy to obtain.
 
 ## Instructions
-1. The RQ1 folder shows the results of RQ1 in the paper. You can directly run the jupyter notebook to obtain the RQ1 results in the paper. About the performance values, you can download the zip file (the link is in the RQ1 folder), then unzip it under the environment and run the setcode file to collect the performance values.
+1. The RQ1 folder shows the results of RQ1 in the paper. You can directly run the jupyter notebook to obtain the RQ1 results in the paper. About the performance values, you can download the code zip file in the RQ1 folder, then unzip it under the environment and run the setcode file to collect the performance values.
 
 2. The RQ2 folder shows the results of code embeddings, i.e., corresponding to the RQ2 in the paper. You can directly run the jupyter notebook to obtain the figure.
 

@@ -100,9 +100,12 @@ Finally, we give the code embeddings generated according to the above method to 
 ## Acknowledgment
 Thank the following works for providing the original repository to facilitate the collection of the data sets required for this paper. At the same time, we gave the address of the raw datasets depository.
 
-Datasets Devig for code vulnerability detection
+Datasets Devign for code vulnerability detection
 Devign: https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/Defect-detection
 and the raw dataset comes from the paper <b>Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks.</b>
+
+Datasets Reveal for code vulnerability detection
+Reveal: https://github.com/VulDetProject/ReVeal.
 
 Datasets CWE119 and CWE399: https://github.com/CGCL-codes/VulDeePecker
 and these two datasets come from the paper <b>Vuldeepecker: A deep learning-based system for vulnerability detection.</b>

@@ -24,7 +24,10 @@ Python .9.13
 
 ## Acknowledgment 
 
-Thank the following works for providing the original repository to facilitate the collection of the data sets required for this paper. At the same time, we gave the address of the raw datasets depository. 
+Thank the following works for providing the original repository to facilitate the collection of the data sets required for this paper. At the same time, we gave the address of the raw datasets depository.
+
 Datasets Devign for code vulnerability detection Devign: https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/Defect-detection and the raw dataset comes from the paper Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks. 
+
 Datasets Reveal for code vulnerability detection Reveal: https://github.com/VulDetProject/ReVeal, which comes from the paper Deep Learning Based Vulnerability Detection: Are We There Yet? 
+
 Datasets CWE119 and CWE399: https://github.com/CGCL-codes/VulDeePecker and these two datasets come from the paper Vuldeepecker: A deep learning-based system for vulnerability detection.

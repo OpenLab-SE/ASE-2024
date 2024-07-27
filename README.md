@@ -13,7 +13,7 @@ The code pre-trained models used in this paper are all come from HuggingFace, we
 
 3. The RQ3 folder includes the following content. First, the process of building the new code embedding dataset is shown, including extracting code embedding metrics (run the features notebook) and making tags (run the tag notebook). Then the performance of the recommendation model is trained and tested on the constructed dataset (run the tag1-auc notebook). Finally, it is evaluated in a real-world scenario (run the scene notebook). In addition, running the feature-importance notebook can get the feature importance analysis of the code metrics of the established recommendation model.
 
-4. The Sample+split folder is where we sample the original dataset to obtain more differently distributed vulnerability datasets to proceed with our research. Download all the files and run the notebook can obtain the same datasets as our paper.
+4. The Sample+split folder is where we sample the original dataset to obtain more differently distributed vulnerability datasets to proceed with our research. Download all the files and run the notebook can obtain the same datasets as our paper, and then move the dataset into the dataset folder of the unzip code file, finally, you can move step 1 to run the code.
 
 ## Environment
 transformers 4.42.4

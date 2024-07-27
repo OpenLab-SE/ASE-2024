@@ -20,7 +20,7 @@ transformers 4.42.4
 
 torch 1.8.0+cu111
 
-Python .9.13 
+Python 3.9.13 
 
 ## Acknowledgment 
 

@@ -15,6 +15,8 @@ The code pre-trained models used in this paper are all come from HuggingFace, we
 
 4. The Sample+split folder is where we sample the original dataset to obtain more differently distributed vulnerability datasets to proceed with our research. Download all the files and run the notebook can obtain the same datasets as our paper, and then move the dataset into the dataset folder of the unzip code file, finally, you can move step 1 to run the code.
 
+5. Note that we did not include the intermediate results, but we gave the original dataset and runnable code. The intermediate results can be obtained step by step starting from step 4 and the performance value obtained in step 1, and then the charts and results reported in the paper are obtained through steps 1, 2 and 3. The data storage format and directory format are available in the output results of the notebook. We will make a docker to save all the steps and results to facilitate dissemination.
+   
 ## Environment
 transformers 4.42.4
 

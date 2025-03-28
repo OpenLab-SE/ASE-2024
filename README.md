@@ -1,4 +1,4 @@
-# This is the data and code repository for manuscripts submitted to ASE 2024.
+# This is the data and code repository for manuscripts submitted to ASE 2024. If you have any questions, please contact the first author of the published version.
 
 ## Datasets
 We first give the datasets under the Sample+split/MYVDCWEDATA folder shown above, these datasets were processed well by previous researchers. See the next **Acknowledgment**.
